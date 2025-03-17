@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>README - Heap Application</title>
+    README - Heap Application
 </head>
 <body>
     <h1>Heap Application</h1>
