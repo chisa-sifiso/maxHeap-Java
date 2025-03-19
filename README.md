@@ -27,7 +27,7 @@
    <h2>⚡ Usage</h2>
     <p>Clone the repository and run the Java program:</p>
       <pre>
-      git clone https://github.com/HeapApplication.git
+      git clone https://github.com/chisa-sifisoHeapApplication.git
       cd HeapApplication/src
       javac Main.java
       java Main
